@@ -33,6 +33,8 @@ A window will appear showing your camera feed. In particular, you'll find:
 - A skeleton like drawing on the detected hand. Orange nodes represent landmarks on your fingers.
 - Recommendation: To test the detection, you might want to turn "always on top" option.
 
+![Example](screenshots/Hand%20Landmarker_screenshot_06.01.2026.png)
+
 Triggering a shortcut is extremely easy:
 - Extend your index finger, as if you're pointing upwards. Make sure the hand fits inside the frame of the camera. If it is valid, your index node will turn green.
 - With a confident swipe, bring your index to one of the orthogonal directions (up, down, left, or right)
